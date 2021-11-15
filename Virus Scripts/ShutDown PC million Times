@@ -1,0 +1,10 @@
+ShutDown PC million Times
+1.Right-click on the desktop
+2.click New — Shortcut
+you will get a dialogue box, write in it: shutdown -s -t 1000 c “any comment u want” then press next
+
+note: this “1000” i wrote is the time in seconds needed for your computer to shut down,You can put any number you want…
+3. You will get another dialogue box, write in it: Internet Explorer and press finish
+4. You will find the icon on ur desktop, don’t open it, just right-click on it and press properties>change icon>select the icon the internet explorer and the press apply than ok
+try to open it, it is a virus
+PS: the only way 2 stop your computer from shutting down is to go 2 start>run>type: shutdown -a
